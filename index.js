@@ -9,7 +9,6 @@ class Account {
 
   // get balance() {
   // }
-
 }
 
 class Transaction {
